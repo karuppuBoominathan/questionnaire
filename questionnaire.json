@@ -1,0 +1,71 @@
+[
+  {
+    "category": [
+      {
+        "learning": [
+          {
+            "questions": [
+              {
+                "question": "Does the employee have motivation and inspiration to learn?",
+                "answer_type": "multiple_choice",
+                "mandatory": "true"
+              },
+              {
+                "question": "Does the employee have clarity in his expectations?",
+                "answer_type": "multiple_choice",
+                "mandatory": "false"
+                
+              },
+              {
+                "question": "Is the employee willing to offer help and advice to his/her peers?",
+                "answer_type": "multiple_choice",
+                "mandatory": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "supporting_and_operating": [
+          {
+            "questions": [
+              {
+                "question": "How satisfied are you with him/her adhering to principles and values",
+                "answer_type": "multiple_choice",
+                "mandatory": "true"
+              },
+              {
+                "question": "How satisfied are you with his/her working with people skills",
+                "answer_type": "",
+                "mandatory": "true"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "influence": [
+          {
+            "questions": [
+              {
+                "question": "Employee is a source of counsel for how to get things done",
+                "answer_type": "multiple_choice",
+                "mandatory": "true"
+              },
+              {
+                "question": "Employee demonstrate charisma",
+                "answer_type": "checkbox",
+                "mandatory": "false"
+              },
+              {
+                "question": "Employee can defuse difficult situations",
+                "answer_type": "dropdown",
+                "mandatory": "true"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
